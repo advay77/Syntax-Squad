@@ -87,7 +87,7 @@ nav a {
     color: white;
     margin-left: 1.5rem;
     font-weight: 500;
-    transition: 0.3s ease;    // nav bar is created 
+    transition: 0.3s ease;
     text-decoration: none;
 }
 
@@ -219,7 +219,7 @@ body::before {
     background-image: url('your-image-path.jpg');
     background-size: cover;
     background-position: center;
-    position: absolute;                                    // hover images is done just need to adjust them
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%; 
